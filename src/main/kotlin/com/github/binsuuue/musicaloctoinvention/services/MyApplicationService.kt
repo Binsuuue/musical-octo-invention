@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.binsuuue.musicaloctoinvention.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.binsuuue.musicaloctoinvention.MyBundle
 
 class MyApplicationService {
 
